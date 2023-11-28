@@ -1,5 +1,5 @@
 # NewOneFileCMS
-One file CMS  wit Swiss knife for developers.I want to make one file cms system based on PHP.  Its my firts project on Github for education puprose
+One file CMS  wit Swiss knife for developers.I want to make one file cms system based on PHP.  Its my firts project on Github for education puprose.
 
 ![Login screen of CMS](http://seo-studio.cz/snewscms/news3.png)
 
