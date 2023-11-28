@@ -1,7 +1,6 @@
 # NewOneFileCMS
-One file CMS  wit Swiss knife for developers.
-I want to make one file cms system based on PHP. 
-Its my firts project on Github for education puprose
+One file CMS  wit Swiss knife for developers.I want to make one file cms system based on PHP.  Its my firts project on Github for education puprose
+
 ![Login screen of CMS](http://seo-studio.cz/snewscms/news3.png)
 
 # HOW IT WILL WORKS
@@ -12,4 +11,4 @@ Editor wil be Codemirror for syntax. (But I dont know that is possible to add to
 1. Secure login auth
 2. TraNNslate to other language
 
-# DO NOT UPLOAD THE FILE NOW. PLEASE EDIT THE ADMIN PASSWORD: THERE ARE DEFAULT PASSOWRD: ITS VERY DANGEROUS.
+# DO NOT UPLOAD THE FILE NOW. PLEASE EDIT THE ADMIN PASSWORD: THERE ARE DEFAULT PASSOWORD: ITS VERY DANGEROUS.
