@@ -9,6 +9,7 @@ Editor wil be Codemirror for syntax. (But I dont know that is possible to add to
 
 # TO DO
 1. Secure login auth
-2. TraNNslate to other language
+2. Translate to other language
+3. Add Codemmiror as main editor.
 
 # DO NOT UPLOAD THE FILE NOW. PLEASE EDIT THE ADMIN PASSWORD: THERE ARE DEFAULT PASSOWORD: ITS VERY DANGEROUS.
