@@ -3,7 +3,7 @@ One file CMS  wit Swiss knife for developers. I want to make one file cms system
 
 ![Login screen of CMS](http://seo-studio.cz/snewscms/news3.png)
 
-# HOW WILL IT WWORKS
+# HOW WILL IT WORKS
 Simple, you upload ONLY one file index.php and login as admin and you can edit files, create new files. Its base on responsive technologies. 
 Editor wil be Codemirror for syntax. (But I dont know that is possible to add to one files...)
 
